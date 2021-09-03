@@ -17,3 +17,15 @@
 </div>
 </details>
 <br/>
+
+<details>
+<summary><b> Day2</b></summary>
+<div markdown="1">
+<br/>
+ 1.[Find Numbers with Even Number of Digits](https://velog.io/@wogus216/Find-Numbers-with-Even-Number-of-Digits)
+<br/>
+2. [Running Sum of 1d Array](https://velog.io/@wogus216/1480.-Running-Sum-of-1d-Array) 
+ 	
+</div>
+</details>
+<br/>
