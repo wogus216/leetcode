@@ -10,8 +10,7 @@
 	
 
 		
-1. [Concatenation of Array](https://velog.io/@wogus216/1929.-Concatenation-of-Array)
-<br/>
+1. [Concatenation of Array](https://velog.io/@wogus216/1929.-Concatenation-of-Array)<br/>	
 2. [Max Consecutive Ones](https://velog.io/@wogus216/leetcode-Max-Consecutive-Ones) 
  	
 </div>
@@ -23,8 +22,7 @@
 <div markdown="1">
 <br/>
 	
- 1. [Find Numbers with Even Number of Digits](https://velog.io/@wogus216/Find-Numbers-with-Even-Number-of-Digits)
-<br/>
+ 1. [Find Numbers with Even Number of Digits](https://velog.io/@wogus216/Find-Numbers-with-Even-Number-of-Digits)<br/>
  2. [Running Sum of 1d Array](https://velog.io/@wogus216/1480.-Running-Sum-of-1d-Array) 
  	
 </div>
@@ -37,8 +35,7 @@
 <div markdown="1">
 <br/>
 	
-1. [Defanging an IP Address](https://velog.io/@wogus216/1108.-Defanging-an-IP-Address)
-<br/>
+1. [Defanging an IP Address](https://velog.io/@wogus216/1108.-Defanging-an-IP-Address)<br/>
 2. [Squares of a Sorted Array](https://velog.io/@wogus216/Squares-of-a-Sorted-Array) 
  	
 </div>
