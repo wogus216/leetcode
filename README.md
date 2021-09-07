@@ -41,3 +41,15 @@
 </div>
 </details>
 <br/>
+
+
+<details>
+<summary><b> Day4</b></summary>
+<div markdown="1">
+<br/>
+	
+1. [Richest Customer Wealth](https://velog.io/@wogus216/1672.-Richest-Customer-Wealth)<br/>
+2. [Duplicate Zeros](https://velog.io/@wogus216/1089.-Duplicate-Zeros) 
+ 	
+</div>
+</details>
