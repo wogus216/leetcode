@@ -53,3 +53,14 @@
  	
 </div>
 </details>
+
+<details>
+<summary><b> Day5</b></summary>
+<div markdown="1">
+<br/>
+	
+1. [Merge Sorted Array](https://velog.io/@wogus216/Merge-Sorted-Array)<br/>
+2. [Shuffle the Array](https://velog.io/@wogus216/1470.-Shuffle-the-Array) 
+ 	
+</div>
+</details>
