@@ -1,7 +1,7 @@
 # leetcode
 
 > 1. 블로그에 풀이 작성
-> 2. 하루 2문제씩 꼭 풀기
+> 2. 하루에 최대 2문제씩 꼭 풀기
 
 <details>
 <summary><b> Day1</b></summary>
