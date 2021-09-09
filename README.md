@@ -64,3 +64,15 @@
  	
 </div>
 </details>
+
+
+<details>
+<summary><b> Day6</b></summary>
+<div markdown="1">
+<br/>
+	
+1. [Kids With the Greatest Number of Candies](https://velog.io/@wogus216/1431.-Kids-With-the-Greatest-Number-of-Candies)<br/>
+
+ 	
+</div>
+</details>
