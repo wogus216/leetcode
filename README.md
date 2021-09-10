@@ -76,3 +76,15 @@
  	
 </div>
 </details>
+
+
+<details>
+<summary><b> Day7</b></summary>
+<div markdown="1">
+<br/>
+	
+1. [Number of Good Pairs](https://velog.io/@wogus216/1512.-Number-of-Good-Pairs)<br/>
+2. [Remove Element](https://velog.io/@wogus216/Remove-Element)
+ 	
+</div>
+</details>
